@@ -12,3 +12,7 @@ set. The last part of this project was generate text from n gram language models
 
 Assignment Project 5 focussed on Vector Semantics where I used Cosine similarity to find the most similar word to each of the given words then used vector addition and subtraction to compute the 
 target words for the given analogies and the last part focussed on Word Embeddings specifically implementing the Continuous Bag of Words algorithm in Word2Vec using PyTorch.
+
+
+Assignment Project 6 focussed on HuggingFace Exploration: I used the pipeline syntax to generate text, then Tokenizer and Model syntax to generate text and evaluated the pretrained language models 
+by computing perplexity. 
