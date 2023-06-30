@@ -9,3 +9,6 @@ Assignment Project 4 focussed on language models where I used the movie reviews 
 trigram and quadgram language models from scratch, from the positive reviews and negative reviews in 
 the training set separately. Then evaluated the language models built with the reviews in the test 
 set. The last part of this project was generate text from n gram language models.
+
+Assignment Project 5 focussed on Vector Semantics where I used Cosine similarity to find the most similar word to each of the given words then used vector addition and subtraction to compute the 
+target words for the given analogies and the last part focussed on Word Embeddings specifically implementing the Continuous Bag of Words algorithm in Word2Vec using PyTorch.
