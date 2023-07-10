@@ -14,5 +14,5 @@ Assignment Project 5 focussed on Vector Semantics where I used Cosine similarity
 target words for the given analogies and the last part focussed on Word Embeddings specifically implementing the Continuous Bag of Words algorithm in Word2Vec using PyTorch.
 
 
-Assignment Project 6 focussed on HuggingFace Exploration: I used the pipeline syntax to generate text, then Tokenizer and Model syntax to generate text and evaluated the pretrained language models 
+Assignment Project 6 focussed on HuggingFace Exploration: I used the pipeline syntax to generate text, also applied the Tokenizer and Model syntax to generate text and finally evaluated the pretrained language models 
 by computing perplexity. 
