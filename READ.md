@@ -16,3 +16,5 @@ target words for the given analogies and the last part focussed on Word Embeddin
 
 Assignment Project 6 focussed on HuggingFace Exploration: I used the pipeline syntax to generate text, also applied the Tokenizer and Model syntax to generate text and finally evaluated the pretrained language models 
 by computing perplexity. 
+
+Final Project:  By using a pretrained models -- BERT-based model in Pytorch transformer library or in HuggingFace Models, Implemented a Deep Learning Classifier to detect fake news on infectious diseases such as COVID-19, then applied Explainable AI techniques to interprete the predictions made by the model.
